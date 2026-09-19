@@ -1,0 +1,1 @@
+print("My name is Adnan and I am a software developer.  I specialize in building web applications and have experience with various programming languages including Python, JavaScript, and Java. I enjoy solving complex problems and continuously learning new technologies to improve my skills.")
